@@ -145,7 +145,7 @@
 				<pod name="Firebase/Crashlytics" spec="7.8.1"/>
 				<pod name="Firebase/Functions" spec="7.8.1"/>
 				<pod name="Firebase/Installations" spec="7.8.1"/>
-				<pod name="GoogleSignIn" spec="7.0.0"/>
+				<pod name="GoogleSignIn" spec="6.2.3"/>
 			</pods>
 		</podspec>
 
