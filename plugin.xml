@@ -141,7 +141,7 @@
 			</config>
 			<pods use-frameworks="true">
 				<pod name="Firebase/Core" spec="9.1.0"/>
-				<pod name="Firebase/Auth" spec="7.8.1"/>
+				<!-- <pod name="Firebase/Auth" spec="7.8.1"/> -->
 				<pod name="Firebase/Messaging" spec="9.1.0"/>
 				<pod name="Firebase/Performance" spec="9.1.0"/>
 				<pod name="Firebase/RemoteConfig" spec="9.1.0"/>
@@ -149,7 +149,7 @@
 				<pod name="Firebase/Crashlytics" spec="9.1.0"/>
 				<pod name="Firebase/Functions" spec="9.1.0"/>
 				<pod name="Firebase/Installations" spec="9.1.0"/>
-				<pod name="GoogleSignIn" spec="5.0.2"/>
+				<!-- <pod name="GoogleSignIn" spec="5.0.2"/> -->
 			</pods>
 		</podspec>
 
